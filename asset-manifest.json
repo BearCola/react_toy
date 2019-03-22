@@ -1,11 +1,11 @@
 {
-  "main.js": "/react_toy/components/static/js/main.a87a81c3.chunk.js",
-  "main.js.map": "/react_toy/components/static/js/main.a87a81c3.chunk.js.map",
-  "runtime~main.js": "/react_toy/components/static/js/runtime~main.3f51a844.js",
-  "runtime~main.js.map": "/react_toy/components/static/js/runtime~main.3f51a844.js.map",
-  "static/js/2.237338eb.chunk.js": "/react_toy/components/static/js/2.237338eb.chunk.js",
-  "static/js/2.237338eb.chunk.js.map": "/react_toy/components/static/js/2.237338eb.chunk.js.map",
-  "index.html": "/react_toy/components/index.html",
-  "precache-manifest.c50fffa5ea0b2d9f72e1ded0894a25a2.js": "/react_toy/components/precache-manifest.c50fffa5ea0b2d9f72e1ded0894a25a2.js",
-  "service-worker.js": "/react_toy/components/service-worker.js"
+  "main.js": "/react_toy/static/js/main.52c85086.chunk.js",
+  "main.js.map": "/react_toy/static/js/main.52c85086.chunk.js.map",
+  "runtime~main.js": "/react_toy/static/js/runtime~main.58fe14b3.js",
+  "runtime~main.js.map": "/react_toy/static/js/runtime~main.58fe14b3.js.map",
+  "static/js/2.71f54e92.chunk.js": "/react_toy/static/js/2.71f54e92.chunk.js",
+  "static/js/2.71f54e92.chunk.js.map": "/react_toy/static/js/2.71f54e92.chunk.js.map",
+  "index.html": "/react_toy/index.html",
+  "precache-manifest.86acf06585fdb61477f70d86137af3bb.js": "/react_toy/precache-manifest.86acf06585fdb61477f70d86137af3bb.js",
+  "service-worker.js": "/react_toy/service-worker.js"
 }
